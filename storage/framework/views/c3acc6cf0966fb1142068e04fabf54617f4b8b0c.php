@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><?php echo $__env->yieldContent('title', 'Gestion des Âmes'); ?></title>
+    <title><?php echo $__env->yieldContent('title', 'Bon Berger ICC Gabon'); ?></title>
     
     <!-- Styles AdminLTE -->
     <link rel="stylesheet" href="<?php echo e(asset('vendor/adminlte/dist/css/adminlte.min.css')); ?>">
